@@ -7,6 +7,7 @@ using namespace std;
 int main()
 {
 	cout << "Hello Demo Child!\n";
+	cout<<"Updated master\n";
 	getchar();	
 }
 
